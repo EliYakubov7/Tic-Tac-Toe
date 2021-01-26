@@ -2,9 +2,9 @@
 
 ### Screenshots
 
-<img src="https://github.com/EliYakubov7/Weather-News/blob/master/screenshots/empty_board.jpg" width="250">  
-<img src="https://github.com/EliYakubov7/Weather-News/blob/master/screenshots/game_is_tied.jpg" width="250">  
-<img src="https://github.com/EliYakubov7/Weather-News/blob/master/screenshots/x_has_won.jpg" width="250">  
+<img src="https://github.com/EliYakubov7/Tic-Tac-Toe/blob/main/screenshots/empty_board.png" width="1000">  
+<img src="https://github.com/EliYakubov7/Tic-Tac-Toe/blob/main/screenshots/game_is_tied.png" width="1000">  
+<img src="https://github.com/EliYakubov7/Tic-Tac-Toe/blob/main/screenshots/x_has_won.png" width="1000">  
 
 ## Author
 
